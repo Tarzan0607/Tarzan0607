@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 💬 Ask me about **Docker, Kubernetes, cloud CI/CD**
+- 💬 Ask me about **Docker, Kubernetes, cloud CI/CD, openshift, prometheus and grafana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
